@@ -1,0 +1,3 @@
+Instalar Python para Windows o tener algun IDE
+Descargar la carpeta
+Correr el programa principal "alien Invasion"

@@ -1,6 +1,6 @@
 # Aliens
 
-Instalar Python para Windows o tener algun IDE
+Instalar Python para Windows o tener algun IDE \n
 Descargar la carpeta
 Instalar pygame {
   Ya que instalaste python 
